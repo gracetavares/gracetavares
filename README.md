@@ -1,6 +1,8 @@
 # Drª. Grace Tavares
-## Bióloga | Bioinformata | Genômica Funcional | Imunoinformática | Cientista de Dados 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=000&size=25&center=true&vCenter=true&width=1000&lines=Bi%C3%B3loga;Bioinformata;Gen%C3%B4mica;Transcript%C3%B4mica;Prote%C3%B4mica;Imunoinform%C3%A1tica;Cientista+de+dados;Bem-vindo(a)+ao+meu+perfil!" />
+</p>
+ 
 Bioinformata com experiência em análise de dados ômicos (WGS, RNA‑seq, Proteômica), Imunoinformática e Integração de Big Data aplicada à Genômica Funcional. Doutora em Ciências pela FIOCRUZ (Genômica Funcional, Evolução e Filogenômica).
 
 Atuação em pesquisa acadêmica e corporativa com foco em:
