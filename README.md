@@ -62,15 +62,13 @@ Bases de dados:
 ![Data Science](https://img.shields.io/badge/Data-Science-blue?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Biomedical-purple?style=for-the-badge)
 
-Frameworks:
+>!Frameworks:
 
-- Scikit‑learn
-- Bioconductor
-- tidyverse
-- ggplot2
-- lme4
-- caret
-- bioperl
+>!- Bioconductor
+>!-- tidyverse
+>!-- ggplot2
+>!- caret
+>!- bioperl
 
 ---
 
